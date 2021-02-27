@@ -7,7 +7,7 @@ I created an employee directory with React. It generates a random employee direc
   ## Table of Contents 
   
   * [ReactApp](#ReactApp)
-  * [Screenshots](#Screenshots)
+  * [Screenshots](#Screenshot)
 
   
   ## ReactApp
@@ -15,25 +15,8 @@ I created an employee directory with React. It generates a random employee direc
   [Employee Directory](https://ashattack.github.io/Employee_Directory/)
  
   
-  ## Screenshots
-  ```
-  
-  ```
-
-  
- 
-  ```
-
- 
-  ```
-  
-  ```
-
-
-  ```
-   
-  ```
-  
+  ## Screenshot
+ ![HomePage](./public/Assets/Employee_Directory_pic.png)
 
   
   
